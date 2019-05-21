@@ -12,10 +12,18 @@ for(int j=0;j<10;j++
 }
 
 
-  public void test2() {
 
-	 System.out.println("this is the test2 method");
-}
+  public void test_Sample()
+  {
+	  for(int j=0;j<10;j++
+				) {
+			System.out.println("this is for loop");
+		} 
+	  int a11=50;
+	  int b32=90;
+	  int c21=50;
+	  int d42=90;
+  }
   public void test() {
 	  int c=10;
 	  int d=22;
