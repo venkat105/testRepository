@@ -12,9 +12,8 @@ for(int j=0;j<10;j++
 }
 
   public void test() {
-	  int c=10;
-	  int d=22;
-	  int e=330;
+	  int ff=20;
+	  int rr=90;
   }
 
 }
