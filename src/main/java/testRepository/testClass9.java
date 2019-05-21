@@ -11,8 +11,8 @@ for(int j=0;j<10;j++
 }
 }
 
-  int a1=10;
-  int b2=20;
+  int a111=10;
+  int b202=20; 
 
 
 }
