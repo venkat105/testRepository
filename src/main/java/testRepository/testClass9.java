@@ -11,8 +11,10 @@ for(int j=0;j<10;j++
 }
 }
 
-  int a111=10;
-  int b202=20; 
+  public void test() {
+	  int c=10;
+	  int d=22;
+  }
 
 
 }
