@@ -11,6 +11,14 @@ for(int j=0;j<10;j++
 }
 }
 
+<<<<<<< Updated upstream
+=======
+  public void test() {
+	  int c=10;
+	  int d=22;
+	  int e=330;
+  }
+>>>>>>> Stashed changes
 
 
   public void test_Sample()
@@ -23,12 +31,10 @@ for(int j=0;j<10;j++
 	  int b32=90;
 	  int c21=50;
 	  int d42=90;
-  }
-  public void test() {
-	  int c=10;
-	  int d=22;
-	  int e=330;
+ while(a11!=50)
+ {
+	System.out.println("this is the while loop"); 
+ }
 
-  }
-
+}
 }
